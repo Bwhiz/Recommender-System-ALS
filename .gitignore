@@ -1,0 +1,7 @@
+# ignoring these folders due to size constraints
+amlas_venv
+ml-25M
+ml-latest-small
+models
+__pycache__
+__pycache__/
