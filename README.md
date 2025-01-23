@@ -48,3 +48,5 @@ The full MovieLens 25M dataset was used for the final model, while a smaller dat
 ## Results
 
 The results from the final model, including the effects of different embedding dimensions (`k`), can be found in the generated images in the `assets/` folder.
+
+A markdown version of the resulting paper from this study can be found in the [benedict_mlas_paper](https://github.com/Bwhiz/Recommender-System-ALS/blob/master/benedict_mlas_paper/benedict_mlas.md) folder.
